@@ -91,6 +91,7 @@ h1 {
   font-weight: bold;
   line-height: 1.7rem;
   margin: 0 30px;
+  position: absolute;
   text-align: center;
 }
 
